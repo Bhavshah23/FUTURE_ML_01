@@ -287,3 +287,22 @@ This project successfully demonstrates a complete sales forecasting pipeline usi
 The resulting forecasts provide valuable business insights that can support inventory management, staffing decisions, revenue planning, and overall business strategy.
 
 The project highlights the practical application of Machine Learning in solving real-world business forecasting problems and demonstrates how predictive analytics can improve decision-making processes.
+
+
+## Results
+
+### Historical Sales Trend
+
+![Historical Sales Trend](outputs/01_historical_sales_trend.png)
+
+### Monthly Sales
+
+![Monthly Sales](outputs/02_monthly_sales.png)
+
+### Actual vs Predicted Sales
+
+![Actual vs Predicted](outputs/04_actual_vs_predicted.png)
+
+### Future Forecast
+
+![Future Forecast](outputs/05_future_forecast.png)

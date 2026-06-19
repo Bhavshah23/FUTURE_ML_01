@@ -288,6 +288,18 @@ The resulting forecasts provide valuable business insights that can support inve
 
 The project highlights the practical application of Machine Learning in solving real-world business forecasting problems and demonstrates how predictive analytics can improve decision-making processes.
 
+ ## What I Learned
+
+Through this project, I gained practical experience in:
+
+- Data cleaning and preprocessing
+- Time-series feature engineering
+- Machine Learning model training
+- Model evaluation using MAE, RMSE, and R²
+- Business-oriented data visualization
+- Understanding how forecasting supports business decisions
+
+This project helped me understand that building a useful Machine Learning solution involves much more than simply training a model.
 
 ## Results
 
